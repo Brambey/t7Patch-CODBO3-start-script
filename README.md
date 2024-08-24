@@ -13,4 +13,4 @@ You MUST place both scripts in the same folder as the T7Patch exe file
 - 3.Create a shortcut for Call of Duty Black Ops III.vbs
 - 4.Change icon of Call of Duty Black Ops III-shortcut (the shortcut created from the vbs file). the codbo3 icon should be loacated in C:/Program Files (x86)/steam/steam/games.
 - 5.Move the shortcut file to your desktop. 
-- if everything is done properly.... the file should look and run exactly like codbo3 normally would (With the exception of T7Patch.exe running with it) 
+- If everything is done properly.... the file should look and run exactly like codbo3 normally would (With the exception of T7Patch.exe running with it) 
