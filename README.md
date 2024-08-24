@@ -6,7 +6,7 @@ The batch script is used to start COD through steam and T7Patch at the same time
 You MUST place both scripts in the same folder as the T7Patch exe file
 
 
-                                                                Instructions
+                                                             Instructions
 1.Download files (obvi) 
 2.Place files in the folder with T7Patch.exe
 3.Create a shortcut for Call of Duty Black Ops III.vbs
