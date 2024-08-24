@@ -1,4 +1,3 @@
-[cod3+t7.zip](https://github.com/user-attachments/files/16738235/cod3%2Bt7.zip)
 # t7Patch-CODBO3-start-script
 This is a portable batch and .vbs file that launches T7Patch.exe with codbo3.
 The purpose of this is so you dont have to click two icons to play (im lazy lol).
